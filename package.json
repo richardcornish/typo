@@ -12,6 +12,7 @@
   "license": "BSD-2-Clause",
   "devDependencies": {
     "clipboard": "^1.7.1",
+    "noty": "^3.1.0",
     "webpack": "^3.0.0"
   }
 }
