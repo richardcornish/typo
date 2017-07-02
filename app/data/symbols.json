@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Care of",
+        "html": "&#8453;",
+        "javascript": "\u2105"
+    },
+    {
+        "id": 2,
+        "name": "Pharmaceutical",
+        "html": "&#8478;",
+        "javascript": "\u211E"
+    },
+    {
+        "id": 3,
+        "name": "Copyright",
+        "html": "&#169;",
+        "javascript": "\u24D2"
+    }
+]
